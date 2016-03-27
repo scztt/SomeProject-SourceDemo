@@ -1,5 +1,5 @@
 (
 Ndef(\test, {
-	SinOsc.ar(440, 0, 0.1);
+	SinOsc.ar(120, 0, 0.1);
 }).play;
 )
